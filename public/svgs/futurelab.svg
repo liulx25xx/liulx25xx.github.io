@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#660066">
+    <tspan x="50%" dy="-10">Future Laboratory</tspan>
+    <tspan x="50%" dy="25" font-size="16" fill="#333333">Tsinghua University</tspan>
+  </text>
+</svg>
