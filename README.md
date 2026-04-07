@@ -1,8 +1,10 @@
-# **Lixin Liu (DevTracy) | Full-Stack Engineer Portfolio**
+# **Lixin Liu (DevTracy) | Portfolio**
 
-![Portfolio Preview](https://liulx25xx.github.io/devtracy.png)
+![Portfolio Preview](./public/image.png)
 
-A **modern, responsive, and SEO-friendly portfolio** built with **Next.js 14, TypeScript, and Tailwind CSS**. It showcases my projects, technical skills, and experience as a **Full-Stack Engineer** specializing in React, Next.js, and AI Application Development.
+A **modern, responsive, and SEO-friendly portfolio** built with **Next.js 14, TypeScript, and Tailwind CSS**. It showcases my projects, technical skills, and experience as a Master's student in Electronic Information at Tsinghua University and my journey as a Full-Stack Engineer, Product Manager, and Open Source Contributor.
+
+> **Acknowledgments**: This portfolio was built upon and heavily customized from the excellent open-source template [devfarouk](https://github.com/Farouk-ayo/devfarouk) by [Farouk Mustapha](https://github.com/Farouk-ayo). Respect and thanks to the original author for the foundation!
 
 ---
 
@@ -23,30 +25,7 @@ A **modern, responsive, and SEO-friendly portfolio** built with **Next.js 14, Ty
 ✅ **SEO Optimized** – Metadata, Open Graph, and Twitter Card integration
 ✅ **Interactive UI** – Smooth animations & hover effects with Framer Motion and AOS
 ✅ **Project Showcases** – With live demo & GitHub repository links
-✅ **Splash Screen Manager** – Elegant loading animations
 ✅ **Performance Optimized** – Next.js image optimization & lazy loading
-
----
-
-## 📂 **Project Structure**
-
-```
-devtracy/
-├── app
-│   ├── components
-│   │   ├── Navbar.tsx
-│   │   ├── Sidebar.tsx
-│   │   ├── SplashScreenManager.tsx
-│   │   └── Providers.tsx
-│   ├── sections
-│   │   └── Copyright.tsx
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── public
-├── package.json
-└── tailwind.config.ts
-```
 
 ---
 
@@ -55,8 +34,8 @@ devtracy/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/liulx25xx/devtracy.git
-cd devtracy
+git clone https://github.com/liulx25xx/liulx25xx.github.io.git
+cd liulx25xx.github.io
 ```
 
 ### **2. Install Dependencies**
@@ -73,12 +52,12 @@ npm run dev
 
 Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-### **4. Build for Production**
+### **4. Build for Production (Static Export)**
 
 ```bash
 npm run build
-npm start
 ```
+This will generate an `out` folder that can be directly deployed to GitHub Pages.
 
 ---
 
