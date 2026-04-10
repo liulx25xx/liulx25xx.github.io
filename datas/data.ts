@@ -113,9 +113,11 @@ export const companiesInfo = [
     duration: "Oct 2024 – Feb 2025",
     image: "/svgs/zhipu.svg",
     roles: [
-      "Participated deeply in the R&D of the AICO AI Agent Platform, designing agent templates, structuring product features, and driving full-cycle project management based on B2B client needs.",
-      "Spearheaded the UI/UX redesign of the 'Workflow Canvas' for AICO 2.0; independently developed high-frequency workflow node tools (e.g., Document Generation, PdfToMD, AIPPT) using Python.",
-      "Authored the comprehensive AICO V2.0 User Manual and product documentation; conducted extensive market research and competitor analysis to refine user requirements and enhance platform usability."
+      "Contributed to the development of the AICO AI Agent Platform, focusing on product design, workflow structuring, and user-oriented feature development for enterprise and public sector clients.",
+      "Led the redesign of the “Workflow Canvas” in AICO 2.0, improving usability and enabling users to build AI workflows more intuitively; developed key workflow tools such as document generation and data transformation modules using Python.",
+      "Engaged in ToG (government-oriented) projects, supporting onboarding and training sessions for institutional users, including facilitating the adoption of AI workflow tools in large-scale organizations.",
+      "Authored product documentation and user manuals, translating complex technical logic into accessible and structured guidance for diverse users.",
+      "Conducted user research and competitive analysis to align product features with real-world needs and improve overall usability."
     ],
   },
   {
