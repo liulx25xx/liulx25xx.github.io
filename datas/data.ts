@@ -6,7 +6,7 @@ export const socialLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/%E4%B8%BD%E6%AC%A3-%E5%88%98-642395402/",
     simpleIcon: "/svgs/linkedIn.svg",
   },
 ];
